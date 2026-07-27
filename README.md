@@ -115,6 +115,8 @@ If you'd like to build from source or contribute to the project, please see **[C
 ## Inspiration & Honorable Mentions
 **[Winamp](https://en.wikipedia.org/wiki/Winamp)**: An honorable mention to the classic **Winamp** spectral visualizer, which served as  inspiration for the responsiveness, physics, and aesthetic of this project. 
 
+**[Paint.NET](https://paint.net/)**: I used this software to create the logo for spectrum. Fun fact: I've been playing around with this software ever since I was a kid.
+
 ## References
 [FFTW (org)](https://www.fftw.org/) | [yyjson (GitHub)](https://github.com/ibireme/yyjson) | [WASAPI Documentation](https://learn.microsoft.com/en-us/windows/win32/api/audioclient/)
 
